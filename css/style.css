@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    padding: 0;}
+
+.header {
+    width: 1280px;
+    height: 70px;
+    display: flex;
+
+}
+
+.items {
+    list-style-type: none;
+    display: flex;
+    padding: 0, 10px;
+    text-decoration: none;
+    color: red
+}
+
+.item-li a {
+    text-decoration: none;
+    color: red
+}
